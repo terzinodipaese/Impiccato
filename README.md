@@ -1,3 +1,3 @@
-# Impoccato
-Gioco dell' impiccato
-Gioco creato da me, simpatico e bello
+Hangman game written in c language
+
+
