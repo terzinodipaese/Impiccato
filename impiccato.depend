@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1485423601 source:c:\users\user\desktop\impiccato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"impiccato.h"
+
+1485262274 source:c:\users\utente\downloads\impiccato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1485431908 c:\users\user\desktop\impiccato\impiccato.h
+
